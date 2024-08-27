@@ -18,7 +18,7 @@ This project implements a Smart Irrigation System using an ESP32 microcontroller
 - **Soil Moisture Monitoring**: Continuously monitors soil moisture levels and activates the relay then the built in Led is on of the ESP-32 and to start irrigation when moisture falls below a predefined threshold ``100``.
 you can change the threshold according your Requirement.
 - **Motion Detection**: Detects motion using a PIR sensor and activates a buzzer to provide an alert.
-- **Configurable Threshold**: The soil moisture threshold for triggering irrigation can be adjusted based on sensor calibration.
+- **Configurable Threshold**: The soil moisture threshold for triggering irrigation can be adjusted based on sensor Calibration.
 
 ## Circuit Diagram
 
