@@ -68,6 +68,7 @@ you can change the threshold according your Requirement.
     idf.py -p /dev/ttyUSB0 flash monitor
     ```
 
+
 ## Code Explanation
 
 ### Main Application
