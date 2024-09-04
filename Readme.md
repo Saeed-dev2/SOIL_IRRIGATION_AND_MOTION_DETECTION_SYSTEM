@@ -1,6 +1,6 @@
 # Smart Irrigation System 
 
-This project implements a Smart Irrigation System using an ESP32 microcontroller, soil moisture sensor, PIR sensor, relay module, and a buzzer. The system monitors soil moisture levels and detects motion to control irrigation and provide alerts.
+This project implements a Smart Irrigation System using an ESP32 microcontroller, soil moisture sensor, PIR sensor, relay module, and a buzzer. The system monitors soil moisture levels and detects motion to control irrigation and provide Alerts.
 
 ## Components Used
 
