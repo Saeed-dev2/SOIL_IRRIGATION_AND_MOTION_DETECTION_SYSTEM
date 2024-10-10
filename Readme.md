@@ -11,7 +11,7 @@ This project implements a Smart Irrigation System using an ESP32 microcontroller
 - **Buzzer**
 - **Jumper Wires**
 - **Breadboard**
-
+  
 
 ## Features
 
